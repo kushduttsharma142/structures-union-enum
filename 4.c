@@ -470,7 +470,6 @@ int main(void) {
     }
 
     free_list(&list);
-    printf("All memory cleared. Goodbye!\n");
 
     return 0;
 }
